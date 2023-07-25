@@ -1,0 +1,17 @@
+h1 {
+}
+button{
+    font-size: medium;
+    font-display: ss;
+    display: flex;
+    position: absolute;
+}
+#biaoti{
+    color: #000;
+}
+#yingmei{
+    color: purple;;
+}
+.rels{
+    color:aqua;
+}
